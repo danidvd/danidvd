@@ -1,0 +1,23 @@
+html
+{
+    background: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+}
+
+#maxi
+{
+    width: 300px;
+    height: 300px;
+}
